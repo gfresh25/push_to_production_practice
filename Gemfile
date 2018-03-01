@@ -18,6 +18,8 @@ gem 'uglifier', '>= 1.3.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 gem 'carrierwave'
+gem 'fog'
+gem 'figaro'
 gem "mini_magick"
 gem 'faker'
 gem 'pry-rails', :group => :development
